@@ -1,3 +1,9 @@
+## 0.3.0 (2025-09-06)
+
+### Feat
+
+- **resumo**: estatuto dos militares
+
 ## 0.2.0 (2025-09-06)
 
 ### Feat
