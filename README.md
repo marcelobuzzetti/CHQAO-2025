@@ -15,7 +15,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 - 📜 História *(em desenvolvimento)*
 
 ### Legislação Militar
-- 🪖 Estatuto dos Militares *(em desenvolvimento)*
+- 🪖 [Estatuto dos Militares](./estatuto.md)
 - 📘 Regulamento Administrativo do Exército *(em desenvolvimento)*
 - ⚖️ Código Penal Militar *(em desenvolvimento)*
 - 📃 Código Processual Penal Militar *(em desenvolvimento)*
