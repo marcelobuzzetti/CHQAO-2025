@@ -1,6 +1,6 @@
 # 📚 Repositório de Estudos CHQAO 2025
 
-![Emblema Militar](https://img.freepik.com/vetores-premium/ilustracao-do-logotipo-do-exercito-militar_9638-1328.jpg)
+
 
 > Repositório criado para organizar e compartilhar materiais de estudo para o Curso de Habilitação ao Quadro Auxiliar de Oficiais (CHQAO) 2025, abrangendo todas as disciplinas exigidas pelo concurso.
 

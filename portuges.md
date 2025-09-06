@@ -1,7 +1,5 @@
 # 📚 Resumo Detalhado das Aulas de Português
 
-![Gramática Portuguesa](https://img.freepik.com/vetores-gratis/fundo-de-letras-portuguesas-em-design-plano_23-2147870577.jpg)
-
 > *Este material consolida os principais tópicos abordados nas apostilas e no livro de Cegalla, oferecendo uma visão aprofundada e dicas para otimizar seu aprendizado.*
 
 ## 📋 Índice de Conteúdos
@@ -92,8 +90,6 @@ A acentuação gráfica é um conjunto de regras que visa indicar a sílaba tôn
 ---
 
 ## 📝 Aula 02 - Introdução à Morfologia e Substantivo
-
-![Morfologia](https://img.freepik.com/vetores-gratis/conceito-de-morfologia-ilustrado_23-2148787313.jpg)
 A Morfologia é o ramo da Gramática que estuda as palavras sob seu aspecto estrutural, classificando-as em classes e analisando suas flexões. Existem dez classes de palavras ou classes gramaticais: substantivo, verbo, adjetivo, pronome, artigo, numeral, preposição, conjunção, interjeição e advérbio. Também há as locuções, que são expressões de duas ou mais palavras que exercem a função de uma única palavra.
 
 ### 🔍 O Substantivo
@@ -161,15 +157,11 @@ A Morfologia é o ramo da Gramática que estuda as palavras sob seu aspecto estr
 ---
 
 ## 📄 Aula 03 - Texto, Contexto, Coesão e Coerência
-
-![Coesão e Coerência](https://img.freepik.com/vetores-gratis/pessoas-conectando-elementos-de-um-quebra-cabeca_23-2148425144.jpg)
 ⚠️ *Embora as fontes mencionem esta aula, não fornecem um conteúdo detalhado sobre "Texto, Contexto, Coesão e Coerência" além dos títulos no índice. Portanto, não é possível resumir o conteúdo específico desta aula com base nas informações fornecidas.*
 
 ---
 
 ## 🔤 Aula 04 - Significação de Palavras e Polissemia
-
-![Polissemia](https://img.freepik.com/vetores-gratis/sinonimo-com-significado-oposto-e-diferente_23-2148652059.jpg)
 Esta aula foca nos diferentes sentidos e relações entre as palavras, essenciais para a interpretação textual.
 
 ### 🔑 Conceitos Chave:
@@ -217,8 +209,6 @@ Atribuição de características humanas (sentimentos, ações, qualidades) a se
 ---
 
 ## 👉 Aula 05 - Pronomes
-
-![Pronomes](https://img.freepik.com/vetores-gratis/conceito-de-gramatica-inglesa_23-2148590765.jpg)
 Pronome é a palavra que substitui ou acompanha um substantivo, relacionando-o às pessoas do discurso (1ª, 2ª, 3ª) ou a seres/situações.
 
 ### 👥 Pessoas do Discurso:
@@ -281,8 +271,6 @@ Usados em perguntas diretas ou indiretas (`que`, `quem`, `qual`, `quanto`)
 ---
 
 ## ✍️ Aula 06 - Verbos
-
-![Verbos](https://img.freepik.com/vetores-gratis/gramatica-de-verbo-para-ilustracao-de-idioma-de-colagem-de-mesa_23-2149587401.jpg)
 Verbo é a classe de palavras que indica ação, estado ou fenômeno da natureza. É fundamental para a formação da oração.
 
 ### 🔄 Conjugações
@@ -347,7 +335,7 @@ Indicam a relação do sujeito com a ação verbal.
 
 ## 🔗 Aula 07 - Conjunções
 
-![Conjunções](https://img.freepik.com/vetores-gratis/homem-e-mulher-com-dispositivos-conectando-elementos-da-internet_1262-19455.jpg)
+
 Conjunção é uma palavra invariável que liga dois termos de mesma função sintática ou duas orações, estabelecendo uma relação de sentido entre elas. As locuções conjuntivas são expressões de duas ou mais palavras com valor de conjunção. As conjunções não exercem função sintática.
 
 ### 📋 Classificação das Conjunções:
@@ -392,7 +380,7 @@ Ligam uma oração subordinada (que depende sintaticamente) a uma oração princ
 
 ## 🔄 Aula 08 - Advérbio
 
-![Advérbios](https://img.freepik.com/vetores-gratis/fundo-de-flashcards-de-vocabulario-ingles_23-2149499928.jpg)
+
 Advérbio é a palavra invariável que modifica um verbo, um adjetivo ou outro advérbio, indicando uma circunstância (de tempo, lugar, modo, intensidade, etc.).
 
 **Locução Adverbial:** É a expressão constituída por duas ou mais palavras que exercem a função de advérbio.
@@ -444,7 +432,7 @@ Os advérbios admitem flexão de grau, comparativo e superlativo. Na linguagem a
 
 ## 🔀 Aula 09 - Preposição
 
-![Preposições](https://img.freepik.com/vetores-gratis/ilustracao-de-preposicoes-de-ingles-plano_23-2149497078.jpg)
+
 Preposição é a palavra invariável que liga dois termos, estabelecendo uma relação de sentido entre eles (ex: posse, causa, instrumento, lugar, etc.).
 
 ### 📋 Classificação das Preposições:
@@ -484,7 +472,7 @@ As preposições podem exprimir diversas relações, como:
 
 ## ✒️ Aula 10 - Ortografia
 
-![Ortografia](https://img.freepik.com/vetores-gratis/ilustracao-de-teste-de-ortografia_23-2149720931.jpg)
+
 A ortografia trata da forma correta de escrever as palavras. A "Novíssima Gramática" destaca que sua edição está adaptada ao Acordo Ortográfico de 1990, que visou a unificação ortográfica do português, resultando em pequenas modificações no uso de acentos, hífen, apóstrofo e na ausência do trema.
 
 ### 📝 Principais Pontos:
@@ -557,7 +545,7 @@ Duplicam-se "rr" e "ss" quando intervocálicos, representando fonemas fortes, ou
 
 ## 📊 Aula 11 - Introdução à Sintaxe e Sujeito
 
-![Sintaxe](https://img.freepik.com/vetores-gratis/modelo-de-estrutura-de-frase_23-2149048650.jpg)
+
 A Sintaxe é a parte da Gramática que estuda a relação das palavras na frase, a ordem dos termos na oração e das orações no período. Ela busca organizar as palavras para que a comunicação seja clara e eficaz.
 
 ### 📚 Conceitos Fundamentais:
@@ -605,7 +593,7 @@ São o sujeito e o predicado.
 
 ## 🔍 Aula 12 - Predicado
 
-![Predicado](https://img.freepik.com/vetores-gratis/menino-com-gramatica-inglesa-no-quadro_23-2148177129.jpg)
+
 O Predicado é o termo essencial da oração que contém o verbo e a informação que se declara sobre o sujeito.
 
 ### 📋 Classificação do Predicado:
@@ -637,7 +625,7 @@ Possui dois núcleos: um verbo de ação (transitivo ou intransitivo) e um nome 
 
 ## 🔄 Aula 14 - Predicativo e Adjunto Adnominal e Complemento Nominal
 
-![Termos Acessórios](https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-do-substantivo_114360-8885.jpg)
+
 Esta aula aborda três termos que frequentemente geram dúvidas devido à sua proximidade conceitual e funcional.
 
 ### 1️⃣ Predicativo
@@ -692,7 +680,7 @@ Os adjuntos adnominais podem ser formados por:
 
 ## 🔄 Aula 15 - AP, OI e CN
 
-![Termos da Oração](https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-simbolo-linguistico_114360-13563.jpg)
+
 Esta aula é principalmente um conjunto de exercícios que revisam e aprofundam os conceitos de Agente da Passiva (AP), Objeto Indireto (OI) e Complemento Nominal (CN). Os conceitos são detalhados nas seções de Verbos (AP) e Predicado/Termos Integrantes (OI, CN).
 
 ### 📝 Relembrando:
@@ -718,7 +706,7 @@ Termo preposicionado que completa o sentido de substantivos abstratos, adjetivos
 
 ## 👉 Aula 16 - Pronomes Oblíquos
 
-![Pronomes Oblíquos](https://img.freepik.com/vetores-gratis/pessoas-com-ilustracao-do-conceito-de-linguas_114360-10483.jpg)
+
 Os pronomes oblíquos são usados como complementos verbais ou nominais. Esta aula foca nas suas funções sintáticas e particularidades.
 
 ### 📋 Funções Sintáticas dos Pronomes Pessoais Oblíquos:
@@ -760,7 +748,7 @@ O pronome "lhe" nunca é objeto direto, sempre indireto ou adjunto adnominal com
 
 ## 📣 Aula 17 - Aposto e Vocativo
 
-![Aposto e Vocativo](https://img.freepik.com/vetores-gratis/ilustracao-de-estudantes-estudando-linguistica_23-2148473318.jpg)
+
 Aposto e Vocativo são termos acessórios da oração, mas independentes.
 
 ### 📌 Aposto
@@ -791,7 +779,7 @@ Aposto e Vocativo são termos acessórios da oração, mas independentes.
 
 ## ✒️ Aula 19 - Pontuação
 
-![Pontuação](https://img.freepik.com/vetores-gratis/conjunto-de-sinais-de-pontuacao-de-desenho-animado_52683-70579.jpg)
+
 A pontuação tem três finalidades principais: assinalar pausas e entonações, separar palavras/expressões/orações e esclarecer o sentido, evitando ambiguidades.
 
 ### 📝 Principais Sinais de Pontuação:
@@ -863,7 +851,7 @@ A pontuação tem três finalidades principais: assinalar pausas e entonações,
 
 ## 🔄 Aula 20 - Regência e Concordância
 
-![Regência e Concordância](https://img.freepik.com/vetores-gratis/composicao-isometrica-do-construtor-de-frases-com-personagens-de-alunos-universitarios-e-blocos-de-palavras-com-sinais-de-pontuacao_1284-60388.jpg)
+
 Esta aula serve como uma introdução aos conceitos de Regência e Concordância, que serão aprofundados nas aulas seguintes.
 
 * **Regência:** Estuda a relação de dependência entre um termo regente (verbo ou nome) e um termo regido (complemento). 
@@ -878,7 +866,7 @@ Esta aula serve como uma introdução aos conceitos de Regência e Concordância
 
 ## 🔄 Aula 21 - Regência Verbal e Nominal
 
-![Regência](https://img.freepik.com/vetores-gratis/ilustracao-de-pessoas-lendo-livros_53876-32596.jpg)
+
 ### 🔄 Regência Verbal
 
 Estuda a relação que se estabelece entre os verbos e os termos que os complementam (objetos diretos e indiretos) ou os caracterizam (adjuntos adverbiais). Muitos verbos admitem mais de uma regência, e a preposição utilizada pode alterar completamente o sentido do verbo.
@@ -928,7 +916,7 @@ Estuda a relação entre um nome (substantivo abstrato, adjetivo ou advérbio) e
 
 ## ✍️ Aula 22 - Sinal Indicativo de Crase
 
-![Crase](https://img.freepik.com/vetores-gratis/conceito-de-acento-circunflexo-com-simbolos-coloridos_23-2147844043.jpg)
+
 Crase é a fusão de duas vogais "a" idênticas. Na escrita, é indicada pelo acento grave (` ). Ocorre quando há a preposição "a" exigida por um termo regente e um "a" (artigo definido ou pronome demonstrativo) que acompanha um termo regido.
 
 ### ✅ Usa-se Crase:
@@ -997,7 +985,7 @@ Crase é a fusão de duas vogais "a" idênticas. Na escrita, é indicada pelo ac
 
 ## 🔄 Aula 23 - Concordância Verbal
 
-![Concordância Verbal](https://img.freepik.com/vetores-gratis/estudante-estudo-analise-da-analise-de-literatura_53876-43038.jpg)
+
 
 > *A concordância verbal é o acordo que se estabelece entre o verbo e o sujeito da oração, permitindo que o verbo se flexione para concordar com o sujeito em número e pessoa.*
 
@@ -1136,7 +1124,7 @@ Crase é a fusão de duas vogais "a" idênticas. Na escrita, é indicada pelo ac
 
 ## 🔄 Aula 24 - Concordância Nominal
 
-![Concordância Nominal](https://img.freepik.com/vetores-gratis/biblioteca-com-pessoas-que-leem_23-2147655362.jpg)
+
 
 > *A Concordância Nominal estabelece que artigos, adjetivos, pronomes adjetivos e numerais devem concordar em gênero (masculino/feminino) e número (singular/plural) com o substantivo a que se referem.*
 
@@ -1209,7 +1197,7 @@ Crase é a fusão de duas vogais "a" idênticas. Na escrita, é indicada pelo ac
 
 ## 🔄 Aula 25 - Colocação Pronominal
 
-![Colocação Pronominal](https://img.freepik.com/vetores-gratis/conjunto-de-elementos-de-gramatica-portuguesa_23-2147778201.jpg)
+
 
 > *A Colocação Pronominal estuda a posição dos pronomes oblíquos átonos (me, te, se, o, a, lhe, nos, vos, os, as, lhes e suas variações lo, la, los, las, no, na, nos, nas) em relação ao verbo.*
 
@@ -1263,7 +1251,7 @@ Crase é a fusão de duas vogais "a" idênticas. Na escrita, é indicada pelo ac
 
 ## 🎭 Aula 26 - Figuras de Linguagem
 
-![Figuras de Linguagem](https://img.freepik.com/vetores-gratis/conjunto-de-pessoas-que-aprendem-portugues_23-2149397841.jpg)
+
 
 > *As figuras de linguagem, também conhecidas como figuras de estilo, são recursos estilísticos especiais empregados por quem fala ou escreve para comunicar com mais força, colorido, intensidade e beleza. Elas dão maior ênfase à comunicação e a tornam mais expressiva. O estudo dessas figuras faz parte da estilística.*
 
