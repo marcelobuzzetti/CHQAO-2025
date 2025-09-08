@@ -334,3 +334,71 @@ O Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980) regula a situ
 *   **Cabos com Estabilidade (Art. 155)**: Cabos que adquiriram estabilidade na vigência desta Lei podem permanecer no serviço ativo, excepcionalmente e no interesse da Força, até 50 anos de idade.
 *   **Não Retroatividade (Art. 157)**: As disposições do Estatuto não retroagem para alcançar situações definidas antes de sua vigência.
 *   **Ajuste de Legislação (Art. 158)**: Após a vigência do Estatuto, todas as disposições legais e regulamentares pertinentes devem ser ajustadas a ele.
+
+Com base nas informações fornecidas nos documentos, apresento os quadros detalhados de idades-limite para transferência para a reserva remunerada, idades-limite de permanência na reserva (para fins de reforma), e as proporções de vagas para promoções:
+
+### Idades-Limite para Transferência para a Reserva Remunerada (*Ex Officio*)
+
+A transferência de ofício para a reserva remunerada ocorre quando o militar atinge as seguintes idades-limite:
+
+**1. Para todos os Oficiais-Generais e Oficiais dos Corpos, Quadros, Armas e Serviços não incluídos na alínea "b" (quadros específicos):**
+
+| Posto / Grau Hierárquico | Idade-Limite |
+| :----------------------- | :----------- |
+| Almirante de Esquadra, General de Exército e Tenente-Brigadeiro | 70 anos |
+| Vice-Almirante, General de Divisão e Major-Brigadeiro | 69 anos |
+| Contra-Almirante, General de Brigada e Brigadeiro | 68 anos |
+| Capitão de Mar e Guerra e Coronel | 67 anos |
+| Capitão de Fragata e Tenente-Coronel | 64 anos |
+| Capitão de Corveta e Major | 61 anos |
+| Capitão-Tenente, Capitão e oficiais subalternos | 55 anos |
+
+**2. Para Oficiais de Quadros Específicos:**
+*   **Marinha**: Oficiais do Quadro de Cirurgiões-Dentistas (CD) e do Quadro de Apoio à Saúde (S), integrantes do Corpo de Saúde da Marinha; e do Quadro Técnico (T), do Quadro Auxiliar da Armada (AA) e do Quadro Auxiliar de Fuzileiros Navais (AFN), integrantes do Corpo Auxiliar da Marinha.
+*   **Exército**: Oficiais do Quadro Complementar de Oficiais (QCO), do Quadro Auxiliar de Oficiais (QAO), do Quadro de Oficiais Médicos (QOM), do Quadro de Oficiais Farmacêuticos (QOF) e do Quadro de Oficiais Dentistas (QOD).
+*   **Aeronáutica**: Oficiais do Quadro de Oficiais Médicos (QOMed), do Quadro de Oficiais Farmacêuticos (QOFarm), do Quadro de Oficiais Dentistas (QODent), dos Quadros de Oficiais Especialistas em Aviões (QOEAv), em Comunicações (QOECom), em Armamento (QOEArm), em Fotografia (QOEFot), em Meteorologia (QOEMet), em Controle de Tráfego Aéreo (QOECTA), e em Suprimento Técnico (QOESup), do Quadro de Oficiais Especialistas da Aeronáutica (QOEA) e do Quadro de Oficiais de Apoio (QOAp).
+
+| Posto / Grau Hierárquico | Idade-Limite |
+| :----------------------- | :----------- |
+| Capitão de Mar e Guerra e Coronel | 67 anos |
+| Capitão de Fragata e Tenente-Coronel | 65 anos |
+| Capitão de Corveta e Major | 64 anos |
+| Capitão-Tenente, Capitão e oficiais subalternos | 63 anos |
+
+**3. Para Praças:**
+
+| Graduação | Idade-Limite |
+| :----------------------- | :----------- |
+| Suboficial e Subtenente | 63 anos |
+| Primeiro-Sargento e Taifeiro-Mor | 57 anos |
+| Segundo-Sargento e Taifeiro de Primeira Classe | 56 anos |
+| Terceiro-Sargento | 55 anos |
+| Cabo e Taifeiro de Segunda Classe | 54 anos |
+| Marinheiro, Soldado e Soldado de Primeira Classe | 50 anos |
+
+### Idades-Limite de Permanência na Reserva (para fins de Reforma)
+
+A reforma será aplicada ao militar que atingir as seguintes idades-limite de permanência na reserva:
+
+| Posto / Grau Hierárquico | Idade-Limite |
+| :----------------------- | :----------- |
+| Oficial-general | 75 anos |
+| Oficial superior | 72 anos |
+| Capitão-Tenente, Capitão e oficial subalterno | 68 anos |
+| Praças | 68 anos |
+
+### Quantidades de Vagas para Promoções
+
+Para manter a renovação, o equilíbrio e a regularidade de acesso nos diferentes Corpos, Quadros, Armas ou Serviços, haverá **anual e obrigatoriamente** um número fixado de vagas à promoção, nas seguintes proporções:
+
+| Posto / Grau Hierárquico | Proporção de Vagas |
+| :----------------------- | :------------------ |
+| Almirantes-de-Esquadra, Generais-de-Exército e Tenentes-Brigadeiros | 1/4 (um quarto) dos respectivos Corpos ou Quadros |
+| Vice-Almirantes, Generais-de-Divisão e Majores-Brigadeiros | 1/4 (um quarto) dos respectivos Corpos ou Quadros |
+| Contra-Almirantes, Generais-de-Brigada e Brigadeiros | 1/4 (um quarto) dos respectivos Corpos ou Quadros |
+| Capitães-de-Mar-e-Guerra e Coronéis | no mínimo 1/8 (um oitavo) dos respectivos Corpos, Quadros, Armas ou Serviços |
+| Capitães-de-Fragata e Tenentes-Coronéis | no mínimo 1/15 (um quinze avos) dos respectivos Corpos, Quadros, Armas ou Serviços |
+| Capitães-de-Corveta e Majores | no mínimo 1/20 (um vinte avos) dos respectivos Corpos, Quadros, Armas ou Serviços |
+| Oficiais dos 3 (três) últimos postos dos Quadros (alínea 'b' do inciso I do Art. 98) | - **último posto**: 1/4 <br> - **penúltimo posto**: no mínimo 1/10 <br> - **antepenúltimo posto**: no mínimo 1/15 <br> *(Exceção: se o último e o penúltimo postos forem Capitão-Tenente ou Capitão e 1º Tenente, as proporções serão no mínimo 1/10 e 1/20, respectivamente)* |
+
+É importante notar que o número de vagas para promoção obrigatória em cada ano-base para os postos referentes aos itens IV, V, VI e VII será fixado, para cada Força, em decretos separados, até o dia 15 de janeiro do ano seguinte. As frações resultantes da aplicação dessas proporções serão adicionadas cumulativamente aos cálculos dos anos seguintes, até que se complete pelo menos 1 (um) inteiro para a obtenção de uma vaga para promoção obrigatória.
