@@ -1,3 +1,16 @@
+## 0.5.0 (2025-09-08)
+
+### Feat
+
+- **resumo**: portugues
+- **resumo**: geografia
+- **resumo**: historia
+- **resumo**: geografia
+
+### Fix
+
+- **indice**: geografia
+
 ## 0.4.0 (2025-09-08)
 
 ### Feat
