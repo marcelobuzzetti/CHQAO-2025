@@ -1,3 +1,10 @@
+## 0.5.3 (2025-09-08)
+
+### Fix
+
+- **indice**: portugues
+- **indice**: portugues
+
 ## 0.5.2 (2025-09-08)
 
 ### Fix
