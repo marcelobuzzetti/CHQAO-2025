@@ -1,3 +1,9 @@
+## 0.5.2 (2025-09-08)
+
+### Fix
+
+- **resumo**: nome do arquivo portugues
+
 ## 0.5.1 (2025-09-08)
 
 ### Fix
