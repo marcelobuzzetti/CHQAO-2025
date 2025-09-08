@@ -1,3 +1,9 @@
+## 0.5.4 (2025-09-08)
+
+### Fix
+
+- **resumo**: estatuto dos militares: adiciona idades e vagas
+
 ## 0.5.3 (2025-09-08)
 
 ### Fix
