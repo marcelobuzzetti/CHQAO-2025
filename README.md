@@ -19,7 +19,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 - 📘 [Regulamento de Administração do Exército](./rae.md)
 - ⚖️ Código Penal Militar *(em desenvolvimento)*
 - 📃 Código Processual Penal Militar *(em desenvolvimento)*
-- � Sindicância *(em desenvolvimento)*
+- � [Sindicância](./sindicancia.md)
 
 ### Administração Pública
 - 📋 [Licitações e Contratos](./licitacoes-e-contratos.md)
