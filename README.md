@@ -11,7 +11,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 ### Materiais Disponíveis
 
 - [📝 Resumo Detalhado de Português](./portuges.md) - Gramática portuguesa, incluindo acentuação, morfologia, sintaxe, concordância e estilística
-- �️ Geografia *(em desenvolvimento)*
+- �️ [Geografia](./geografia.md)
 - 📜 [História](./historia.md)
 
 ### Legislação Militar
