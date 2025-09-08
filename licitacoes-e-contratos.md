@@ -632,3 +632,645 @@ Embora a Lei nº 14.133/21 seja o foco principal, o Decreto nº 10.024/19 regula
 *   **Habilitação**: Exigida documentação jurídica, técnica, econômico-financeira, fiscal e trabalhista. Pode ser substituída pelo registro cadastral no Sicaf.
 *   **Recurso (Art. 44)**: A intenção de recorrer deve ser manifestada **imediatamente** na sessão pública. As razões devem ser apresentadas em **3 dias**.
 *   **Contratação (Art. 48)**: Após a homologação, o adjudicatário é convocado para assinar o contrato/ata de registro de preços. É exigida a comprovação das condições de habilitação, que devem ser mantidas durante a vigão. Se o vencedor não comprovar as condições ou se recusar a assinar, outro licitante pode ser convocado, respeitada a ordem de classificação.
+
+---
+
+Apresento a seguir as questões sobre Licitações e Contratos encontradas nas provas anteriores, com suas respectivas respostas corretas e as explicações detalhadas, baseadas nos artigos e informações dos materiais de estudo fornecidos:
+
+### **Prova CHQAO 2021.pdf**
+
+**Questão 61:** Com relação ao julgamento das propostas em uma licitação, na forma da Lei 8.666/93, é CORRETO afirmar que:
+a) Concorrência é a modalidade de licitação entre quaisquer interessados para a venda de bens móveis inservíveis para a administração.
+b) Tomada de preços é a modalidade de licitação entre quaisquer interessados para escolha de trabalho técnico, científico ou artístico.
+c) São modalidades de licitação prevista na Lei nº 8.666/93: concorrência, tomada de preços, convite, concurso e leilão.
+d) Concurso é a modalidade de licitação entre quaisquer interessados para a venda de produtos legalmente apreendidos.
+e) É permitida a criação de outras modalidades de licitação ou a combinação das mesmas.
+
+**Resposta Correta: c) São modalidades de licitação prevista na Lei nº 8.666/93: concorrência, tomada de preços, convite, concurso e leilão.**
+
+**Explicação:**
+A questão solicita a resposta com base na **Lei nº 8.666/93**. É fundamental distinguir as modalidades da antiga lei das da nova (Lei nº 14.133/2021).
+*   Na Lei nº 8.666/93, as modalidades de licitação eram: **concorrência, tomada de preços, convite, concurso e leilão**. A Lei nº 14.133/2021 **extinguiu a tomada de preços e o convite**, introduzindo o diálogo competitivo. Portanto, a opção (c) está **correta** ao listar as modalidades da Lei nº 8.666/93.
+
+Analisando as demais opções:
+*   a) **Incorreto**. A venda de bens móveis inservíveis para a administração é feita por **Leilão**, não por concorrência.
+*   b) **Incorreto**. A escolha de trabalho técnico, científico ou artístico é feita por **Concurso**, não por tomada de preços.
+*   d) **Incorreto**. A venda de produtos legalmente apreendidos é feita por **Leilão**, não por concurso.
+*   e) **Incorreto**. Tanto na Lei nº 8.666/93 quanto na Lei nº 14.133/2021, **é vedada a criação de outras modalidades de licitação ou a combinação das existentes**.
+
+---
+
+**Questão 62:** Considere as seguintes situações: I – venda de móveis inservíveis. II – escolha de trabalho técnico. III – venda de produtos legalmente apreendidos. As modalidades licitatórias aplicáveis para as situações descritas, de acordo com o artigo 22 da Lei 8.666/93, são respectivamente:
+a) Concorrência, tomada de preços e concurso.
+b) Leilão, pregão e concurso.
+c) Convite, concurso e concurso.
+d) Leilão, concurso e convite.
+e) Leilão, concurso e leilão.
+
+**Resposta Correta: e) Leilão, concurso e leilão.**
+
+**Explicação:**
+Conforme as definições das modalidades de licitação (aplicáveis em princípio também à Lei 8.666/93 para estas situações, e explicitamente na Lei 14.133/21):
+*   **I – Venda de móveis inservíveis:** A modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos é o **Leilão**.
+*   **II – Escolha de trabalho técnico:** A modalidade para escolha de trabalho técnico, científico ou artístico é o **Concurso**.
+*   **III – Venda de produtos legalmente apreendidos:** Similarmente à venda de móveis inservíveis, a alienação de bens legalmente apreendidos é realizada por **Leilão**.
+
+Portanto, a sequência correta é Leilão, Concurso e Leilão.
+
+---
+
+**Questão 63:** Se durante a fase externa do pregão, o licitante desatender às exigências para habilitação, que medida, segundo a Lei 10.520, de 17 de julho de 2002, deverá ser tomada pelo pregoeiro para que um licitante seja declarado vencedor:
+a) Aceitar a oferta do licitante, uma vez que o objeto atende às especificações definidas pelo edital.
+b) Anular o procedimento licitatório e efetivar a contratação direta, por dispensa de licitação.
+c) Examinar as ofertas subsequentes e a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao edital.
+d) Anular o procedimento licitatório e efetivar a contratação direta, por inexigibilidade de licitação.
+e) Abrir a oportunidade para que os licitantes apresentem novas propostas, independente de suas qualificações, até obter aquela mais vantajosa para a administração.
+
+**Resposta Correta: c) Examinar as ofertas subsequentes e a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao edital.**
+
+**Explicação:**
+De acordo com o Art. 43, § 4º do Decreto nº 10.024/2019, que regulamenta o pregão eletrônico, na hipótese de a proposta vencedora não ser aceitável ou o licitante não atender às exigências para habilitação, o pregoeiro deverá **examinar a proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital**. Este procedimento visa garantir a continuidade do processo licitatório e a seleção da proposta mais vantajosa, seguindo a ordem de classificação estabelecida inicialmente, antes de recorrer a medidas como a anulação.
+
+---
+
+**Questão 64:** Analise as afirmativas a seguir:
+I – Os contratos deverão estabelecer com clareza e precisão as condições para sua execução.
+II – Os contratos decorrentes de dispensa de licitação deverão atender aos termos do ato que os autorizou e da respectiva proposta.
+III – A autoridade competente não poderá exigir prestação de garantia nas contratações de obras, serviços e compras.
+IV – É permitido o contrato com prazo de vigência indeterminado.
+V – O instrumento de contrato jamais poderá ser substituído por outros instrumentos hábeis, como a nota de empenho da despesa.
+Após análise das afirmativas descritas, considere as normas da Lei 8.666/93, e assinale a alternativa CORRETA:
+a) Apenas os itens I, II e III estão corretos.
+b) Apenas os itens I e II estão corretos.
+c) Apenas os itens I e V estão corretos.
+d) Apenas os itens II e V estão corretos.
+e) Apenas os itens III e IV estão corretos.
+
+**Resposta Correta: b) Apenas os itens I e II estão corretos.**
+
+**Explicação:**
+A questão refere-se à Lei nº 8.666/93, mas as disposições da Lei nº 14.133/2021 sobre formalização e execução de contratos, presentes nos materiais, são amplamente análogas em seus princípios.
+*   **I – Os contratos deverão estabelecer com clareza e precisão as condições para sua execução.** **Correto**. O Art. 89, § 2º da Lei nº 14.133/2021 (e Art. 5º da Lei 8.666/93) estabelece que os contratos devem definir com clareza e precisão os direitos, obrigações e responsabilidades das partes.
+*   **II – Os contratos decorrentes de dispensa de licitação deverão atender aos termos do ato que os autorizou e da respectiva proposta.** **Correto**. O Art. 89, § 2º e o Art. 92, II da Lei nº 14.133/2021 indicam que os contratos, inclusive os de contratação direta, devem estar em conformidade com o ato que os autorizou e a proposta respectiva.
+*   **III – A autoridade competente não poderá exigir prestação de garantia nas contratações de obras, serviços e compras.** **Incorreto**. A Administração **pode e deve** exigir garantias para assegurar a plena execução do contrato, quando julgar necessário. O Art. 92, XII da Lei 14.133/2021 lista as garantias como cláusula necessária.
+*   **IV – É permitido o contrato com prazo de vigência indeterminado.** **Incorreto**. Contratos administrativos são, via de regra, por **prazo determinado**. Embora possa haver prorrogações (como nos serviços contínuos até o limite decenal), a vigência é sempre determinada.
+*   **V – O instrumento de contrato jamais poderá ser substituído por outros instrumentos hábeis, como a nota de empenho da despesa.** **Incorreto**. O Art. 95 da Lei nº 14.133/2021 (e Art. 62 da Lei 8.666/93) prevê que o instrumento de contrato **poderá ser substituído** por outros instrumentos, como carta-contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço, especialmente em casos de dispensa de licitação em razão de valor ou compras com entrega imediata e integral.
+
+---
+
+**Questão 65:** Em relação ao procedimento licitatório do pregão previsto na Lei 10.520/02, considere as assertivas abaixo, julgando-as como verdadeiras (V) ou falsas (F):
+( ) O prazo fixado para a apresentação das propostas, contado a partir da publicação do aviso, não será inferior a 8 (oito) dias úteis.
+( ) Declarado o vencedor, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer.
+( ) Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao pregoeiro decidir motivadamente a respeito da sua aceitabilidade.
+( ) É permitida a exigência de aquisição do edital pelos licitantes, como condição para participação no certame.
+Assinale a alternativa que apresenta a sequência CORRETA de cima para baixo:
+a) V, V, F, V
+b) V, V, F, F
+c) V, F, V, F
+d) F, V, F, V
+e) V, V, V, F
+
+**Resposta Correta: e) V, V, V, F.**
+
+**Explicação:**
+A análise é feita com base no Decreto nº 10.024/2019, que regulamenta o pregão eletrônico (Lei 10.520/02):
+*   **(V) O prazo fixado para a apresentação das propostas, contado a partir da publicação do aviso, não será inferior a 8 (oito) dias úteis.** **Correto**. O Art. 25 do Decreto nº 10.024/2019 estabelece que o prazo para apresentação das propostas e documentos de habilitação não será inferior a oito dias úteis, contados da data de publicação do aviso do edital.
+*   **(V) Declarado o vencedor, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer.** **Correto**. O Art. 44 do Decreto nº 10.024/2019 prevê que, declarado o vencedor, qualquer licitante pode manifestar imediatamente sua intenção de recorrer, em campo próprio do sistema. A ausência dessa manifestação implica decadência do direito.
+*   **(V) Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao pregoeiro decidir motivadamente a respeito da sua aceitabilidade.** **Correto**. Conforme o Art. 39 do Decreto nº 10.024/2019, o pregoeiro examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço, decidindo sobre sua aceitabilidade.
+*   **(F) É permitida a exigência de aquisição do edital pelos licitantes, como condição para participação no certame.** **Falso**. As normas de licitação, incluindo a Lei nº 14.133/2021, buscam garantir a ampla competitividade. Para isso, o acesso aos elementos do edital deve ser livre e sem a necessidade de aquisição ou registro. Exigir a aquisição do edital seria uma barreira à participação.
+
+---
+
+**Questão 66:** O Capítulo II do Decreto 10.024/19 regulamenta aspectos relacionados à forma de realização, etapas, critério de julgamento das propostas e documentação referente ao pregão na forma eletrônica. Analisando as afirmativas abaixo, assinale a alternativa INCORRETA:
+a) O pregão, na forma eletrônica, será realizado quando a disputa ocorrer à distância e em sessão pública.
+b) A abertura da sessão pública e envio de lances constituem uma etapa do pregão, na forma eletrônica.
+c) A previsão de recursos orçamentários necessários é um dos documentos que deve instruir o processo relativo ao pregão, exceto na hipótese de pregão para registro de preços.
+d) A última etapa do pregão, na forma eletrônica, é a habilitação.
+e) Os critérios de julgamento empregados na seleção da proposta mais vantajosa para a administração serão as de menor preço ou maior desconto, conforme dispuser o edital.
+
+**Resposta Correta: d) A última etapa do pregão, na forma eletrônica, é a habilitação.**
+
+**Explicação:**
+Analisando as afirmativas com base no Decreto nº 10.024/2019:
+*   a) **Correto**. O pregão eletrônico é caracterizado pela disputa à distância em sessão pública.
+*   b) **Correto**. A "abertura da sessão pública e envio de lances" é a quarta etapa do pregão eletrônico.
+*   c) **Correto**. A previsão de recursos orçamentários necessários é um dos documentos que instruem o processo do pregão, sendo expressamente excetuada a hipótese de pregão para registro de preços.
+*   d) **Incorreto**. A habilitação (VI) não é a última etapa do pregão eletrônico. As etapas sucessivas são: planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, **habilitação, recursal, adjudicação e homologação**. A **homologação** (IX) é a última etapa.
+*   e) **Correto**. Os critérios de julgamento no pregão eletrônico são o de menor preço ou o de maior desconto.
+
+---
+
+**Questão 68:** Em relação as definições apresentadas no Art. 3° do Decreto 10.024/19, analise as afirmativas abaixo, julgando-as como verdadeiras (V) ou falsas (F).
+( ) Bens e serviços comuns são bens cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações reconhecidas e usuais no mercado.
+( ) Termo de Referência é o documento elaborado com base nos estudos técnicos preliminares.
+( ) Estudo técnico preliminar é o documento que contém a definição precisa, suficiente e clara do objeto e a indicação dos locais, das datas e dos horários em que poderá ser obtido o edital.
+Marque a alternativa que apresenta a sequência CORRETA:
+a) V, F, V
+b) V, V, V
+c) V, V, F
+d) F, V, F
+e) F, F, V
+
+**Resposta Correta: c) V, V, F.**
+
+**Explicação:**
+A análise se baseia no Decreto nº 10.024/2019 e na Lei nº 14.133/2021:
+*   **(V) Bens e serviços comuns são bens cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações reconhecidas e usuais no mercado.** **Correto**. Essa é a própria definição de bens e serviços comuns, que permite a utilização da modalidade pregão.
+*   **(V) Termo de Referência é o documento elaborado com base nos estudos técnicos preliminares.** **Correto**. O termo de referência é um documento essencial para a contratação de bens e serviços, e deve ser elaborado com base nos estudos técnicos preliminares.
+*   **(F) Estudo técnico preliminar é o documento que contém a definição precisa, suficiente e clara do objeto e a indicação dos locais, das datas e dos horários em que poderá ser obtido o edital.** **Falso**. A definição precisa, suficiente e clara do objeto, bem como a indicação de locais, datas e horários para obtenção do edital, são características do próprio **edital de licitação**. O estudo técnico preliminar (ETP) visa evidenciar o problema a ser resolvido, a melhor solução, a viabilidade técnica e econômica da contratação, e contém elementos como a descrição da necessidade da contratação, estimativas de quantidades e valor, e justificativas para o parcelamento.
+
+---
+
+**Questão 69:** O Capítulo V do Decreto 10.024/19 dispõe sobre as questões relacionadas ao planejamento da contratação. Sobre o assunto, assinale a opção CORRETA:
+a) O valor estimado ou valor máximo aceitável sempre possuirá caráter sigiloso.
+b) Os membros da equipe de apoio não poderão ser servidores do órgão ou da entidade promotora da licitação.
+c) Caberá ao licitante interessado em participar do pregão, a forma eletrônica, remeter, no prazo estabelecido, exclusivamente via postal, os documentos de habilitação e a proposta.
+d) Caberá a equipe de apoio conduzir os trabalhos do pregoeiro.
+e) Caberá ao pregoeiro coordenar a sessão pública e o envio de lances.
+
+**Resposta Correta: e) Caberá ao pregoeiro coordenar a sessão pública e o envio de lances.**
+
+**Explicação:**
+Analisando as afirmativas sobre o planejamento da contratação no pregão eletrônico:
+*   a) **Incorreto**. O orçamento estimado da contratação **poderá** ter caráter sigiloso, **desde que justificado**, mas não é "sempre" sigiloso. O sigilo não prevalece para órgãos de controle interno e externo.
+*   b) **Incorreto**. O agente de contratação (e, por extensão, o pregoeiro) e sua equipe de apoio são, preferencialmente, **servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública**.
+*   c) **Incorreto**. Os licitantes encaminharão os documentos de habilitação e a proposta **exclusivamente via sistema eletrônico**, e não via postal.
+*   d) **Incorreto**. A equipe de apoio tem a função de **auxiliar** o pregoeiro nas etapas do processo licitatório, não de conduzir seus trabalhos.
+*   e) **Correto**. Uma das atribuições do pregoeiro é **coordenar a sessão pública e o envio de lances**.
+
+---
+
+**Questão 70:** Baseado no artigo 17 do Decreto 10.024/19, assinale a opção que representa uma atribuição do pregoeiro:
+a) Determinar a abertura do processo licitatório.
+b) Adjudicar o objeto da licitação, quando houver recurso.
+c) Verificar e julgar as condições de habilitação.
+d) Celebrar o contrato.
+e) Homologar o resultado da licitação.
+
+**Resposta Correta: c) Verificar e julgar as condições de habilitação.**
+
+**Explicação:**
+O Art. 17 do Decreto nº 10.024/2019 lista as atribuições específicas do pregoeiro:
+*   a) Determinar a abertura do processo licitatório é atribuição da **autoridade competente**.
+*   b) Adjudicar o objeto da licitação **quando houver recurso** é atribuição da **autoridade competente**. O pregoeiro adjudica o objeto **quando não houver recurso**.
+*   c) **Verificar e julgar as condições de habilitação** é uma atribuição expressa do pregoeiro.
+*   d) Celebrar o contrato ou assinar a ata de registro de preços é atribuição da **autoridade competente**.
+*   e) Homologar o resultado da licitação é atribuição da **autoridade competente**. O pregoeiro encaminha o processo para a autoridade competente e **propõe a homologação**.
+
+---
+
+### **Prova CHQAO 2022.pdf**
+
+**Questão 61:** Com relação ao julgamento das propostas em uma licitação, na forma da Lei 8.666/93, é CORRETO afirmar que:
+a) O edital indicará, o critério para julgamento, com disposições claras e parâmetros subjetivos.
+b) A administração poderá flexibilizar as normas e condições do edital, caso seja conveniente.
+c) No caso de licitação do tipo “menor preço”, entre os licitantes considerados qualificados a classificação se dará pela ordem crescente dos preços propostos.
+d) A Administração poderá celebrar o contrato com a preterição da ordem de classificação das propostas ou com terceiros estranhos ao procedimento licitatório.
+e) Serão desclassificadas as propostas com preços manifestadamente inexequíveis, mesmo que seja demonstrada sua viabilidade.
+
+**Resposta Correta: c) No caso de licitação do tipo “menor preço”, entre os licitantes considerados qualificados a classificação se dará pela ordem crescente dos preços propostos.**
+
+**Explicação:**
+A questão se refere à Lei 8.666/93, mas os princípios de julgamento são consistentes na Lei 14.133/2021.
+*   a) **Incorreto**. Os critérios de julgamento devem ser **objetivos**, não subjetivos, para garantir a isonomia e a justa competição.
+*   b) **Incorreto**. O princípio da **vinculação ao instrumento convocatório** (edital) significa que tanto a Administração quanto os licitantes devem obedecer estritamente às regras do edital. A flexibilização unilateral é indevida.
+*   c) **Correto**. Em licitações que adotam o critério de **menor preço**, a classificação dos licitantes qualificados se dá, logicamente, pela ordem crescente dos preços propostos, ou seja, do menor para o maior preço, a fim de selecionar a proposta mais vantajosa economicamente.
+*   d) **Incorreto**. A Administração deve seguir a ordem de classificação dos licitantes, salvo as exceções de convocação de remanescentes e negociação, mas nunca com preterição injustificada ou com terceiros estranhos ao procedimento licitatório.
+*   e) **Incorreto**. As propostas com preços manifestamente inexequíveis **serão desclassificadas**, **SALVO se o licitante demonstrar sua exequibilidade** quando exigido pela Administração. A afirmação de que seriam desclassificadas *mesmo que seja demonstrada sua viabilidade* está incorreta.
+
+---
+
+**Questão 62:** Considere as seguintes situações: I – venda de móveis inservíveis. II – escolha de trabalho técnico. III – venda de produtos legalmente apreendidos. As modalidades licitatórias aplicáveis para as situações descritas, de acordo com o artigo 22 da Lei 8.666/93, são respectivamente:
+a) Concorrência, tomada de preços e concurso.
+b) Leilão, pregão e concurso.
+c) Convite, concurso e concurso.
+d) Leilão, concurso e convite.
+e) Leilão, concurso e leilão.
+
+**Resposta Correta: e) Leilão, concurso e leilão.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 62 da Prova CHQAO 2021. Conforme já explicado:
+*   **I – Venda de móveis inservíveis:** A modalidade correta para alienação de bens é o **Leilão**.
+*   **II – Escolha de trabalho técnico:** A modalidade correta para escolha de trabalho técnico, científico ou artístico é o **Concurso**.
+*   **III – Venda de produtos legalmente apreendidos:** A modalidade correta para alienação de bens legalmente apreendidos é o **Leilão**.
+
+---
+
+**Questão 63:** Se durante a fase externa do pregão, o licitante desatender às exigências para habilitação, que medida, segundo a Lei 10.520, de 17 de julho de 2002, deverá ser tomada pelo pregoeiro para que um licitante seja declarado vencedor:
+a) Aceitar a oferta do licitante, uma vez que o objeto atende às especificações definidas pelo edital.
+b) Anular o procedimento licitatório e efetivar a contratação direta, por dispensa de licitação.
+c) Examinar as ofertas subsequentes e a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao edital.
+d) Anular o procedimento licitatório e efetivar a contratação direta, por inexigibilidade de licitação.
+e) Abrir a oportunidade para que os licitantes apresentem novas propostas, independente de suas qualificações, até obter aquela mais vantajosa para a administração.
+
+**Resposta Correta: c) Examinar as ofertas subsequentes e a qualificação dos licitantes, na ordem de classificação, e assim sucessivamente, até a apuração de uma que atenda ao edital.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 63 da Prova CHQAO 2021. Conforme o Art. 43, § 4º do Decreto nº 10.024/2019, se o licitante vencedor não atender aos requisitos de habilitação, o pregoeiro deve **examinar as propostas subsequentes, na ordem de classificação, até que encontre um licitante que atenda ao edital**.
+
+---
+
+**Questão 64:** Analise as afirmativas a seguir:
+I – Os contratos deverão estabelecer com clareza e precisão as condições para sua execução.
+II – Os contratos decorrentes de dispensa de licitação deverão atender aos termos do ato que os autorizou e da respectiva proposta.
+III – A autoridade competente não poderá exigir prestação de garantia nas contratações de obras, serviços e compras.
+IV – É permitido o contrato com prazo de vigência indeterminado.
+V – O instrumento de contrato jamais poderá ser substituído por outros instrumentos hábeis, como a nota de empenho da despesa.
+Após análise das afirmativas descritas, considere as normas da Lei 8.666/93, e assinale a alternativa CORRETA:
+a) Apenas os itens I, II e III estão corretos.
+b) Apenas os itens I e II estão corretos.
+c) Apenas os itens I e V estão corretos.
+d) Apenas os itens II e V estão corretos.
+e) Apenas os itens III e IV estão corretos.
+
+**Resposta Correta: b) Apenas os itens I e II estão corretos.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 64 da Prova CHQAO 2021. As explicações para cada afirmativa são as mesmas, com base nos princípios da Lei nº 14.133/2021, que são análogos aos da Lei nº 8.666/93 para esses pontos:
+*   I – **Correto**: Clareza e precisão nas condições de execução.
+*   II – **Correto**: Vinculação aos termos do ato autorizador e proposta.
+*   III – **Incorreto**: A Administração pode exigir garantias.
+*   IV – **Incorreto**: Contratos são por prazo determinado.
+*   V – **Incorreto**: O instrumento de contrato pode ser substituído em certas hipóteses.
+
+---
+
+**Questão 65:** Em relação ao procedimento licitatório do pregão previsto na Lei 10.520/02, considere as assertivas abaixo, julgando-as como verdadeiras (V) ou falsas (F):
+( ) O prazo fixado para a apresentação das propostas, contado a partir da publicação do aviso, não será inferior a 8 (oito) dias úteis.
+( ) Declarado o vencedor, qualquer licitante poderá manifestar imediata e motivadamente a intenção de recorrer.
+( ) Examinada a proposta classificada em primeiro lugar, quanto ao objeto e valor, caberá ao pregoeiro decidir motivadamente a respeito da sua aceitabilidade.
+( ) É permitida a exigência de aquisição do edital pelos licitantes, como condição para participação no certame.
+Assinale a alternativa que apresenta a sequência CORRETA de cima para baixo:
+a) V, V, F, V
+b) V, V, F, F
+c) V, F, V, F
+d) F, V, F, V
+e) V, V, V, F
+
+**Resposta Correta: e) V, V, V, F.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 65 da Prova CHQAO 2021. As explicações para cada afirmativa, com base no Decreto nº 10.024/2019, são as mesmas:
+*   (V) Prazo mínimo de 8 dias úteis para propostas.
+*   (V) Manifestação imediata de intenção de recorrer.
+*   (V) Pregoeiro decide sobre aceitabilidade da proposta vencedora.
+*   (F) É vedada a exigência de aquisição do edital.
+
+---
+
+**Questão 66:** O Capítulo II do Decreto 10.024/19 regulamenta aspectos relacionados à forma de realização, etapas, critério de julgamento das propostas e documentação referente ao pregão na forma eletrônica. Analisando as afirmativas abaixo, assinale a alternativa INCORRETA:
+a) O pregão, na forma eletrônica, será realizado quando a disputa ocorrer à distância e em sessão pública.
+b) A abertura da sessão pública e envio de lances constituem uma etapa do pregão, na forma eletrônica.
+c) A previsão de recursos orçamentários necessários é um dos documentos que deve instruir o processo relativo ao pregão, exceto na hipótese de pregão para registro de preços.
+d) A última etapa do pregão, na forma eletrônica, é a habilitação.
+e) Os critérios de julgamento empregados na seleção da proposta mais vantajosa para a administração serão as de menor preço ou maior desconto, conforme dispuser o edital.
+
+**Resposta Correta: d) A última etapa do pregão, na forma eletrônica, é a habilitação.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 66 da Prova CHQAO 2021. A habilitação (VI) não é a última etapa. As etapas sucessivas do pregão eletrônico são: planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, **habilitação, recursal, adjudicação e homologação**. A **homologação** é a última etapa.
+
+---
+
+**Questão 68:** Em relação as definições apresentadas no Art. 3° do Decreto 10.024/19, analise as afirmativas abaixo, julgando-as como verdadeiras (V) ou falsas (F).
+( ) Bens e serviços comuns são bens cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações reconhecidas e usuais no mercado.
+( ) Termo de Referência é o documento elaborado com base nos estudos técnicos preliminares.
+( ) Estudo técnico preliminar é o documento que contém a definição precisa, suficiente e clara do objeto e a indicação dos locais, das datas e dos horários em que poderá ser obtido o edital.
+Marque a alternativa que apresenta a sequência CORRETA:
+a) V, F, V
+b) V, V, V
+c) V, V, F
+d) F, V, F
+e) F, F, V
+
+**Resposta Correta: c) V, V, F.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 68 da Prova CHQAO 2021. As explicações para cada afirmativa são as mesmas:
+*   (V) Bens e serviços comuns são definidos por padrões objetivos e especificações usuais de mercado.
+*   (V) Termo de Referência é elaborado com base em estudos técnicos preliminares.
+*   (F) A definição precisa do objeto e as informações sobre o edital são do próprio edital, não do estudo técnico preliminar.
+
+---
+
+**Questão 69:** O Capítulo V do Decreto 10.024/19 dispõe sobre as questões relacionadas ao planejamento da contratação. Sobre o assunto, assinale a opção CORRETA:
+a) O valor estimado ou valor máximo aceitável sempre possuirá caráter sigiloso.
+b) Os membros da equipe de apoio não poderão ser servidores do órgão ou da entidade promotora da licitação.
+c) Caberá ao licitante interessado em participar do pregão, a forma eletrônica, remeter, no prazo estabelecido, exclusivamente via postal, os documentos de habilitação e a proposta.
+d) Caberá a equipe de apoio conduzir os trabalhos do pregoeiro.
+e) Caberá ao pregoeiro coordenar a sessão pública e o envio de lances.
+
+**Resposta Correta: e) Caberá ao pregoeiro coordenar a sessão pública e o envio de lances.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 69 da Prova CHQAO 2021. Conforme já explicado:
+*   a) Incorreto: O orçamento **pode** ser sigiloso, se justificado, mas não é "sempre".
+*   b) Incorreto: A equipe de apoio é preferencialmente composta por servidores.
+*   c) Incorreto: Documentos são enviados **via sistema eletrônico**.
+*   d) Incorreto: A equipe de apoio **auxilia**, não conduz o pregoeiro.
+*   e) **Correto**: Coordenar a sessão pública e o envio de lances é atribuição do pregoeiro.
+
+---
+
+**Questão 70:** Baseado no artigo 17 do Decreto 10.024/19, assinale a opção que representa uma atribuição do pregoeiro:
+a) Determinar a abertura do processo licitatório.
+b) Adjudicar o objeto da licitação, quando houver recurso.
+c) Verificar e julgar as condições de habilitação.
+d) Celebrar o contrato.
+e) Homologar o resultado da licitação.
+
+**Resposta Correta: c) Verificar e julgar as condições de habilitação.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 70 da Prova CHQAO 2021. Conforme o Art. 17 do Decreto nº 10.024/2019, a atribuição de **verificar e julgar as condições de habilitação** pertence ao pregoeiro. As demais opções são atribuições da autoridade competente ou dependem de condições específicas para o pregoeiro (como adjudicar se não houver recurso).
+
+---
+
+### **Prova CHQAO 2023.pdf**
+
+**Questão 61:** Analise as assertivas abaixo de acordo com as definições da Lei nº 14.133/2021, e marque a alternativa CORRETA:
+I - Concorrência: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor.
+II - Leilão: modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance.
+III - Pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto.
+IV - Diálogo Competitivo: modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos.
+V - Concurso: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser de menor preço, melhor técnica ou conteúdo artístico, técnica e preço, maior retorno econômico e maior desconto.
+a) Somente os itens I, II e III estão corretos
+b) Somente os itens II, III e V estão corretos
+c) Somente os itens III, IV e V estão corretos
+d) Somente os itens II, III e IV estão corretos
+e) Todos os itens estão corretos
+
+**Resposta Correta: d) Somente os itens II, III e IV estão corretos.**
+
+**Explicação:**
+Esta questão é muito similar à Questão 33 do 1º Simuladão, mas com as descrições de "Concorrência" e "Concurso" trocadas entre as assertivas I e V.
+*   **I - Concorrência:** **Incorreto**. A descrição é, na verdade, do **Concurso**. A concorrência é para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia.
+*   **II - Leilão:** **Correto**. O leilão é para alienação de bens imóveis ou móveis inservíveis/apreendidos, com critério de maior lance.
+*   **III - Pregão:** **Correto**. É obrigatório para aquisição de bens e serviços comuns, com critério de menor preço ou maior desconto.
+*   **IV - Diálogo Competitivo:** **Correto**. Modalidade para obras, serviços e compras, com diálogos com licitantes pré-selecionados para desenvolver soluções, e proposta final após os diálogos.
+*   **V - Concurso:** **Incorreto**. A descrição é, na verdade, da **Concorrência**. O concurso tem como critério exclusivo a melhor técnica ou conteúdo artístico.
+
+---
+
+**Questão 62:** Com base no Decreto 10.024/2019, que regulamenta a licitação, na modalidade pregão, na forma eletrônica, assinale com "V" para a(s) sentença(s) verdadeira(s) ou com "F" para a(s) sentença(s) falsa(s):
+( ) As normas disciplinadoras da licitação serão interpretadas em favor da ampliação da disputa entre os interessados, resguardados o interesse da administração, o princípio da isonomia, a finalidade e a segurança da contratação.
+( ) O pregão, na forma eletrônica, não se aplica a contratações de obras, locações imobiliárias e alienações.
+( ) Os critérios de julgamento empregados na seleção da proposta mais vantajosa para a administração será somente o de menor preço.
+( ) A fase externa do pregão, na forma eletrônica, será iniciada com a convocação dos interessados por meio da publicação do aviso do edital no Diário Oficial da União e no sítio eletrônico oficial do órgão ou da entidade promotora da licitação.
+Assinale a alternativa que apresenta a sequência CORRETA de cima para baixo:
+a) V-V-F-V
+b) V-V-V-V
+c) V-V-F-F
+d) F-V-F-V
+e) F-F-V-F
+
+**Resposta Correta: a) V-V-F-V.**
+
+**Explicação:**
+Esta questão é idêntica à Questão 62 da Prova CHQAO 2023 (primeira parte do meu output). A análise se baseia no Decreto 10.024/19 e na Lei 14.133/21:
+*   **(V) As normas disciplinadoras da licitação serão interpretadas em favor da ampliação da disputa entre os interessados, resguardados o interesse da administração, o princípio da isonomia, a finalidade e a segurança da contratação.** **Correto**. O § 2º do Art. 2º do Decreto 10.024/19 e o Art. 246, §2º da Lei 14.133/2021 estabelecem essa interpretação favorável à ampliação da disputa, resguardando os princípios e o interesse público.
+*   **(V) O pregão, na forma eletrônica, não se aplica a contratações de obras, locações imobiliárias e alienações.** **Correto**. O pregão é para bens e serviços comuns. Não é aplicável a obras e serviços de engenharia em geral (apenas serviços de engenharia comuns em alguns casos muito específicos, mas não obras em si) ou serviços técnicos especializados de natureza predominantemente intelectual. Locações imobiliárias e alienações possuem regulamentação e modalidades próprias, como o leilão para alienações.
+*   **(F) Os critérios de julgamento empregados na seleção da proposta mais vantajosa para a administração será somente o de menor preço.** **Falso**. No pregão, os critérios de julgamento são **menor preço ou maior desconto**. A Lei 14.133/2021 ainda prevê outros critérios para outras modalidades.
+*   **(V) A fase externa do pregão, na forma eletrônica, será iniciada com a convocação dos interessados por meio da publicação do aviso do edital no Diário Oficial da União e no sítio eletrônico oficial do órgão ou da entidade promotora da licitação.** **Correto**. O Art. 20 do Decreto nº 10.024/2019 define que a fase externa do pregão eletrônico começa com a publicação do aviso do edital no Diário Oficial da União e no sítio eletrônico oficial do órgão ou entidade.
+
+---
+
+**Questão 64:** De acordo com o art. 11 da Lei nº 14.133/2021, sobre os objetivos do processo licitatório na Administração Pública direta, autárquica e fundacional da União, dos Estados, do Distrito Federal e dos Municípios, analise as afirmações a seguir a respeito dos objetivos do processo licitatório:
+I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;
+II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição;
+III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;
+IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+Estão corretas as afirmativas:
+a) I, II e III apenas
+b) II, III e IV apenas
+c) I, III e IV apenas
+d) I, II, III e IV
+e) I, II e IV apenas
+
+**Resposta Correta: d) I, II, III e IV.**
+
+**Explicação:**
+O Art. 11 da Lei nº 14.133/2021 estabelece os seguintes objetivos para o processo licitatório:
+*   **I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;**
+*   **II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição;**
+*   **III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;**
+*   **IV - incentivar a inovação e o desenvolvimento nacional sustentável.**
+Todas as afirmativas listadas são objetivos expressamente previstos no referido artigo da lei.
+
+---
+
+**Questão 65:** De acordo com o Art. 156 da Lei nº 14.133/2021, as infrações administrativas serão sancionadas com:
+( ) advertência
+( ) multa
+( ) impedimento de licitar e contratar
+( ) suspensão temporária de participação em licitação, por prazo não superior a 2 (dois) anos
+( ) declaração de inidoneidade para licitar ou contratar
+Assinale a alternativa que apresenta a sequência correta de cima para baixo:
+a) F-V-F-V-V
+b) F-V-V-F-V
+c) V-V-F-V-V
+d) V-V-V-F-F
+e) V-V-V-F-V
+
+**Resposta Correta: e) V-V-V-F-V.**
+
+**Explicação:**
+O Art. 156 da Lei nº 14.133/2021 elenca as sanções administrativas aplicáveis ao responsável por infrações:
+*   **(V) advertência**.
+*   **(V) multa**.
+*   **(V) impedimento de licitar e contratar**.
+*   **(F) suspensão temporária de participação em licitação, por prazo não superior a 2 (dois) anos**. Esta sanção **não está prevista** na Lei nº 14.133/2021. Era uma sanção da Lei nº 8.666/93.
+*   **(V) declaração de inidoneidade para licitar ou contratar**.
+
+---
+
+**Questão 66:** Os contratos devem estabelecer com clareza e precisão as condições para sua execução, expressas em cláusulas que definam os direitos, obrigações e responsabilidades das partes, em conformidade com os termos do edital de licitação e da proposta a que se vinculam ou com os termos do ato que autorizou a contratação direta e os da respectiva proposta. De acordo com a Lei nº 14.133/2021, todos os contratos devem conter as seguintes informações, EXCETO:
+a) nomes das partes e os de seus representantes.
+b) a possibilidade de rescisão unilateral do contrato.
+c) ato que autorizou sua lavratura.
+d) número do processo da licitação ou da contratação direta.
+e) sujeição dos contratantes às normas desta Lei e às cláusulas contratuais.
+
+**Resposta Correta: b) a possibilidade de rescisão unilateral do contrato.**
+
+**Explicação:**
+Conforme o Art. 89, § 1º e o Art. 92 da Lei nº 14.133/2021, os contratos devem conter as seguintes informações:
+*   a) os nomes das partes e os de seus representantes.
+*   c) o ato que autorizou sua lavratura.
+*   d) o número do processo da licitação ou da contratação direta.
+*   e) a sujeição dos contratantes às normas desta Lei e às cláusulas contratuais.
+
+A Lei prevê os "casos de extinção" como cláusula necessária (Art. 92, XIX), o que inclui a rescisão. No entanto, a "possibilidade de rescisão unilateral" não é listada como uma cláusula obrigatória em si, mas sim os "casos de extinção". Portanto, a opção (b) é a informação que **não** é expressamente exigida como cláusula individual e obrigatória como as demais, mas é uma característica inerente ou contemplada dentro dos "casos de extinção" previstos na lei.
+
+---
+
+**Questão 68:** De acordo com o Decreto 10.024/2019, que dispõe sobre o pregão na forma eletrônica, sobre o Termo de Referência, o objeto da licitação:
+a) deverá ser definido de forma precisa, suficiente e clara, permitindo especificações desnecessárias, que limitem a competição.
+b) deverá ser precisa, inclusive indicando a marca do produto, para ter mais agilidade na definição do pregão.
+c) deverá ser precisa, suficiente e clara, vedadas especificações desnecessárias que limitem a competição.
+d) deverá ser precisa, com indicação da marca do produto, para que o produto adquirido atenda a necessidade.
+e) deverá ser imprecisa, com a indicação da marca do produto, para garantir que o produto adquirido atenda a necessidade.
+
+**Resposta Correta: c) deverá ser precisa, suficiente e clara, vedadas especificações desnecessárias que limitem a competição.**
+
+**Explicação:**
+O Termo de Referência, que é o documento essencial para a contratação de bens e serviços, deve conter a definição do objeto de forma clara. As especificações devem ser **precisas, suficientes e claras**, e a legislação proíbe explicitamente **especificações excessivas, irrelevantes ou desnecessárias que limitem ou frustrem a competição ou a realização do certame**. A indicação de marca ou modelo é uma exceção e deve ser formalmente justificada, não sendo a regra geral.
+
+---
+
+**Questão 69:** Sobre os procedimentos auxiliares das licitações e das contratações, assinale a alternativa INCORRETA conforme a definição da Nova Lei de Licitações (Lei Federal nº 14.133/2021):
+a) credenciamento;
+b) pré-qualificação;
+c) procedimento de manifestação de interesse;
+d) sistema de registro de preços;
+e) contratação direta.
+
+**Resposta Correta: e) contratação direta.**
+
+**Explicação:**
+O Art. 78 da Lei nº 14.133/2021 lista os **procedimentos auxiliares** das licitações e contratações: **credenciamento, pré-qualificação, procedimento de manifestação de interesse, sistema de registro de preços e registro cadastral**.
+A **contratação direta**, que engloba a inexigibilidade e a dispensa de licitação, **não é um procedimento auxiliar**, mas sim uma forma de contratação da Administração Pública que **dispensa a licitação**. Portanto, "contratação direta" é a alternativa INCORRETA na lista de procedimentos auxiliares.
+
+---
+
+**Questão 70:** Acerca dos procedimentos do Decreto nº 10.024/2019, que define as etapas expressas do pregão, na forma eletrônica. Qual a alternativa abaixo que corresponde CORRETAMENTE às etapas sucessivas?
+a) planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, habilitação, recursal, adjudicação e homologação.
+b) planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, recursal, habilitação, adjudicação e homologação.
+c) publicação do aviso de edital, planejamento da contratação, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, habilitação, recursal, adjudicação e homologação.
+d) publicação do aviso de edital, planejamento da contratação, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, recursal, habilitação, adjudicação e homologação.
+e) planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, habilitação, julgamento,
+
+**Resposta Correta: a) planejamento da contratação, publicação do aviso de edital, apresentação de propostas e de documentos de habilitação, abertura da sessão pública e envio de lances, julgamento, habilitação, recursal, adjudicação e homologação.**
+
+**Explicação:**
+O Art. 6º do Decreto nº 10.024/2019 (e o Art. 17 da Lei nº 14.133/2021 para o rito comum da licitação) estabelece as seguintes etapas sucessivas para a realização do pregão na forma eletrônica:
+*   I - **planejamento da contratação**;
+*   II - **publicação do aviso de edital**;
+*   III - **apresentação de propostas e de documentos de habilitação**;
+*   IV – **abertura da sessão pública e envio de lances, ou fase competitiva**;
+*   V - **julgamento**;
+*   VI - **habilitação**;
+*   VII - **recursal**;
+*   VIII - **adjudicação**; e
+*   IX - **homologação**.
+A opção (a) lista todas essas etapas na sequência correta. As demais opções apresentam inversões ou omissões na ordem das fases.
+
+---
+
+### **Prova CHQAO 2024.pdf**
+
+**Questão 64:** Poderia a fase de apresentação de propostas e lances, o Pregoeiro inicia o julgamento das propostas apresentadas pelos licitantes. A Lei 14.133/21, prevê em seu Art. 33, os critérios de julgamento das propostas. Em qual das alternativas abaixo, estão citados TODOS os critérios previstos na Lei 14.133/21, para o julgamento das propostas?
+a) Menor preço, maior desconto, melhor preço ou conteúdo artístico, técnica e preço, maior lance (no caso de leilão) e maior retorno econômico.
+b) Menor preço, maior desconto, melhor técnica ou conteúdo artístico, maior lance (no caso de concurso) e maior retorno econômico.
+c) Menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (no caso de leilão) e maior retorno econômico.
+d) Menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço e maior lance (no caso de concurso) e maior retorno econômico.
+e) Menor preço, maior desconto, melhor técnica ou conteúdo artístico, maior lance (no caso de leilão) e maior retorno econômico.
+
+**Resposta Correta: c) Menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (no caso de leilão) e maior retorno econômico.**
+
+**Explicação:**
+O Art. 33 da Lei nº 14.133/2021 lista **todos os critérios de julgamento das propostas**:
+*   I - **menor preço**;
+*   II - **maior desconto**;
+*   III - **melhor técnica ou conteúdo artístico**;
+*   IV - **técnica e preço**;
+*   V - **maior lance**, no caso de leilão;
+*   VI - **maior retorno econômico**.
+A opção (c) é a única que apresenta todos esses seis critérios de forma completa e correta. As opções (b) e (d) contêm um erro ao associar "maior lance" ao "concurso" em vez de "leilão".
+
+---
+
+**Questão 65:** Ao término da fase preparatória, a publicidade do edital de licitação será realizada mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP). No caso de aquisição de bens, conforme previsto no Art. 55 da Lei 14.133/21, cite em qual das alternativas abaixo está CORRETO o prazo mínimo previsto para apresentação de propostas e lances, contados a partir da data de divulgação do edital de licitação.
+a) 15 (quinze) dias úteis para licitação em que se adote o critério de julgamento de maior lance.
+b) 35 (trinta e cinco) dias úteis, quando o regime de execução for de contratação integrada.
+c) 10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços especiais e de obras e serviços especiais de engenharia.
+d) 10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto.
+e) 8 (oito) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços comuns e de obras e serviços comuns de engenharia.
+
+**Resposta Correta: d) 10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto.**
+
+**Explicação:**
+O Art. 55 da Lei 14.133/2021 (e o resumo em) estabelece os prazos mínimos para apresentação de propostas e lances. A questão pergunta sobre prazos para "aquisição de bens". No entanto, as opções abrangem diferentes cenários:
+*   Para **aquisição de bens** com menor preço ou maior desconto, o prazo é de **8 dias úteis**.
+*   Para **aquisição de bens nos demais casos ou maior lance**, o prazo é de **15 dias úteis**.
+*   Para **serviços e obras comuns** com menor preço ou maior desconto, o prazo é de **10 dias úteis**.
+*   Para **serviços e obras especiais** com menor preço ou maior desconto, o prazo é de **25 dias úteis**.
+*   Para **contratação integrada**, o prazo é de **60 dias úteis**.
+*   Para **contratação semi-integrada ou técnica e preço ou melhor técnica ou conteúdo artístico**, o prazo é de **35 dias úteis**.
+
+Analisando as opções dadas e o contexto (apesar da ambiguidade da questão):
+*   a) "15 (quinze) dias úteis para licitação em que se adote o critério de julgamento de maior lance." É correto para "aquisição de bens nos demais casos ou maior lance".
+*   b) "35 (trinta e cinco) dias úteis, quando o regime de execução for de contratação integrada." **Incorreto**, o prazo para contratação integrada é de 60 dias úteis.
+*   c) "10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços especiais e de obras e serviços especiais de engenharia." **Incorreto**, para serviços e obras especiais, o prazo é de 25 dias úteis.
+*   d) "10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto." Esta afirmação é **correta** se se referir a "serviços e obras comuns". Embora a questão comece com "No caso de aquisição de bens", esta opção representa um prazo correto para um cenário específico dentro dos critérios de menor preço ou maior desconto, que são amplamente aplicados.
+*   e) "8 (oito) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços comuns e de obras e serviços comuns de engenharia." **Incorreto**, 8 dias é para aquisição de bens, não para serviços e obras de engenharia.
+
+Considerando que a opção (d) é indicada como a resposta correta na prova e que 10 dias úteis é de fato um prazo mínimo para *alguns* tipos de contratação (serviços e obras comuns) com os critérios de menor preço/maior desconto, presume-se que a pergunta busca a alternativa que contenha um prazo correto, mesmo que a introdução sobre "aquisição de bens" possa induzir a erro ou ser parte de um contexto mais amplo.
+
+---
+
+**Questão 66:** Durante o julgamento das propostas, o Senhor Pregoeiro do 22º BI Mtz, seguindo o que prescreve o Art. 59 da Lei 14.133/21, desclassificará as propostas que forem observadas as seguintes desconformidades abaixo, EXCETO:
+a) Não obedecerem às especificações técnicas pormenorizadas no edital.
+b) Apresentarem desconformidade com quaisquer outras exigências do edital, desde que insanável.
+c) Tiverem sua exequibilidade demonstrada, quando exigido pela Administração.
+d) Contiverem vícios insanáveis.
+e) Apresentarem preços inexequíveis ou permanecerem acima do orçamento estimado para a contratação.
+
+**Resposta Correta: c) Tiverem sua exequibilidade demonstrada, quando exigido pela Administração.**
+
+**Explicação:**
+O Art. 59 da Lei nº 14.133/2021 detalha as condições para desclassificação de propostas:
+*   I - contiverem vícios insanáveis;
+*   II - não obedecerem às especificações técnicas pormenorizadas no edital;
+*   III - apresentarem preços inexequíveis ou permanecerem acima do orçamento estimado para a contratação;
+*   IV - **não tiverem sua exequibilidade demonstrada**, quando exigido pela Administração;
+*   V - apresentarem desconformidade com quaisquer outras exigências do edital, desde que insanável.
+
+A questão pede a **EXCEÇÃO** aos motivos de desclassificação. As opções (a), (b), (d) e (e) são, de fato, motivos que levam à desclassificação. A opção (c), "Tiverem sua exequibilidade demonstrada, quando exigido pela Administração", descreve a situação oposta à do inciso IV. Se a exequibilidade da proposta é demonstrada, significa que ela **cumpre** um requisito essencial e, portanto, **não será desclassificada**. Assim, esta é a condição que impede a desclassificação, sendo a exceção procurada.
+
+---
+
+### **Prova CHQAO-MÚSICO- 2024.pdf**
+
+**Questão 46:** De acordo com a Lei nº 14.133, de 1º de abril de 2021, são modalidades de licitação, EXCETO:
+a) Concorrência
+b) Pregão
+c) Leilão
+d) Tomada de Preço
+e) Diálogo competitivo
+
+**Resposta Correta: d) Tomada de Preço.**
+
+**Explicação:**
+A Lei nº 14.133/2021 estabelece cinco modalidades de licitação:
+*   I - **Pregão**;
+*   II - **Concorrência**;
+*   III - **Concurso**;
+*   IV - **Leilão**;
+*   V - **Diálogo competitivo**.
+
+As modalidades **Tomada de Preços e Convite**, que estavam presentes na Lei nº 8.666/93 (lei anterior de licitações), **foram extintas** pela Lei nº 14.133/2021. Portanto, "Tomada de Preço" não é uma modalidade de licitação na atual Nova Lei de Licitações e Contratos Administrativos.
+
+---
+
+**Questão 47:** O Tenente “Fulano” recém-chegado a Organização Militar foi designado para a Seção de Aquisições Licitações e Contratos e precisa assessorar o seu Chefe na montagem dos Processos Licitatórios. Marque a opção com a SEQUÊNCIA CORRETA das Fases do Processo Licitação, de acordo com a Lei nº 14.133, de 1º de abril de 2021:
+a) Preparatória, divulgação do edital de licitação, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação.
+b) Preparatória, divulgação do edital de licitação, julgamento, apresentação de propostas e lances, habilitação, recursal e homologação.
+c) Preparatória, apresentação de propostas e lances, divulgação do edital de licitação, julgamento, habilitação, recursal e homologação.
+d) Divulgação do edital de licitação, preparatória, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação.
+e) Preparatória, divulgação do edital de licitação, apresentação de propostas e lances, habilitação, julgamento, recursal e homologação.
+
+**Resposta Correta: a) Preparatória, divulgação do edital de licitação, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação.**
+
+**Explicação:**
+O Art. 17 da Lei nº 14.133/2021 estabelece a **sequência das fases do processo licitatório** como regra geral (para concorrência e pregão):
+*   I - **Preparatória**;
+*   II - **De divulgação do edital de licitação**;
+*   III - **De apresentação de propostas e lances**, quando for o caso;
+*   IV - **De julgamento**;
+*   V - **De habilitação**;
+*   VI - **Recursal**;
+*   VII - **De homologação**.
+
+A opção (a) apresenta essa sequência exata das fases, que é o rito procedimental comum. É importante notar que a lei permite, mediante ato motivado, que a fase de habilitação (V) anteceda as fases de apresentação de propostas e lances (III) e julgamento (IV), mas a sequência apresentada na opção (a) é a ordem padrão e mais comum.
