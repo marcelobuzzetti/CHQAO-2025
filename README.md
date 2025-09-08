@@ -22,7 +22,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 - � Sindicância *(em desenvolvimento)*
 
 ### Administração Pública
-- 📋 Licitações e Contratos *(em desenvolvimento)*
+- 📋 [Licitações e Contratos](./licitacoes-e-contratos.md)
 
 ## 🎯 Objetivos
 
