@@ -1,3 +1,9 @@
+## 0.7.0 (2025-09-08)
+
+### Feat
+
+- **questoes**: licitacoes e contratos
+
 ## 0.6.0 (2025-09-08)
 
 ### Feat
