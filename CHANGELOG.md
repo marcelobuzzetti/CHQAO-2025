@@ -1,3 +1,9 @@
+## 0.14.0 (2025-09-09)
+
+### Feat
+
+- **docs**: arquivos de estudo na pasta docs
+
 ## 0.13.0 (2025-09-09)
 
 ### Feat
