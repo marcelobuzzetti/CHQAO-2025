@@ -303,6 +303,20 @@ Com base nas fontes fornecidas, apresento as questões sobre sindicância e suas
 
 ---
 
+#### Rito Ordinário vs. Rito Sumário: Principais Diferenças
+
+| Característica | Rito Ordinário | Rito Sumário |
+| :--- | :--- | :--- |
+| **Quando é utilizado?** | É o procedimento **padrão**, utilizado para a apuração de fatos que necessitam de uma investigação mais aprofundada e produção de provas durante o processo. | Utilizado em casos mais simples, onde a matéria é **predominantemente de direito** ou os **fatos já estão comprovados** por documentos. |
+| **Discricionariedade** | A administração **não tem a opção** de não seguir este rito quando o caso é complexo. | A autoridade competente **pode escolher** aplicar este rito, se os requisitos forem atendidos, para agilizar o processo. |
+| **Provas** | A produção de provas é uma fase **essencial e ampla** do procedimento. | Baseia-se em **provas pré-constituídas**, ou seja, provas que já existem no momento da instauração. |
+| **Velocidade** | O trâmite é **mais lento e detalhado**, garantindo ampla defesa e contraditório. | A tramitação é **mais rápida e simplificada**, com prazos mais curtos. |
+| **Complexidade** | Indicado para casos **mais complexos** e com maior necessidade de dilação probatória. | Indicado para casos de **menor complexidade** e mais claros. |
+| **Conversão** | Pode receber processos que se iniciaram como sumários mas se mostraram mais complexos. | Pode ser **convertido para o rito ordinário** se a complexidade do caso aumentar. |
+| **Partes Envolvidas** | O termo utilizado é **"sindicado"**. | O termo utilizado é **"interessado"**. |
+
+---
+
 ### Questões e Explicações sobre Sindicância
 
 **1. Questão (CHQAO/2024 - ADAPTADA) - no tocante as Instruções Gerais para a elaboração de sindicâncias no âmbito da Força Terrestre (EB10-IG-09.001), aprovada pela Portaria Nr 2.394, DE 5 DE DEZEMBRO DE 2024, é CORRETO afirmar que:**
