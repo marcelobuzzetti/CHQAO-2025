@@ -1,3 +1,9 @@
+## 0.12.0 (2025-09-09)
+
+### Feat
+
+- **resumo**: sindicancia: rito ordinario x sumario
+
 ## 0.11.0 (2025-09-08)
 
 ### Feat
