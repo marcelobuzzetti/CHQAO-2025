@@ -17,7 +17,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 ### Legislação Militar
 - 🪖 [Estatuto dos Militares](./docs/estatuto.md)
 - 📘 [Regulamento de Administração do Exército](./docs/rae.md)
-- ⚖️ Código Penal Militar *(em desenvolvimento)*
+- ⚖️ [Código Penal Militar](./docs/cpm.md)
 - 📃 Código Processual Penal Militar *(em desenvolvimento)*
 - � [Sindicância](./docs/sindicancia.md)
 
