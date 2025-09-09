@@ -1,3 +1,9 @@
+## 0.15.0 (2025-09-09)
+
+### Feat
+
+- **semver**: change breaking change
+
 ## 0.14.0 (2025-09-09)
 
 ### Feat
