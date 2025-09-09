@@ -1,3 +1,9 @@
+## 0.13.0 (2025-09-09)
+
+### Feat
+
+- Add Contributor Covenant Code of Conduct
+
 ## 0.12.0 (2025-09-09)
 
 ### Feat
