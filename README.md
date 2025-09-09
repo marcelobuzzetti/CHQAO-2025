@@ -10,16 +10,16 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 
 ### Materiais Disponíveis
 
-- [📝 Português](./portugues.md) - Gramática portuguesa, incluindo acentuação, morfologia, sintaxe, concordância e estilística
-- �️ [Geografia](./geografia.md)
-- 📜 [História](./historia.md)
+- [📝 Português](./docs/portugues.md) - Gramática portuguesa, incluindo acentuação, morfologia, sintaxe, concordância e estilística
+- �️ [Geografia](./docs/geografia.md)
+- 📜 [História](./docs/historia.md)
 
 ### Legislação Militar
-- 🪖 [Estatuto dos Militares](./estatuto.md)
-- 📘 [Regulamento de Administração do Exército](./rae.md)
+- 🪖 [Estatuto dos Militares](./docs/estatuto.md)
+- 📘 [Regulamento de Administração do Exército](./docs/rae.md)
 - ⚖️ Código Penal Militar *(em desenvolvimento)*
 - 📃 Código Processual Penal Militar *(em desenvolvimento)*
-- � [Sindicância](./sindicancia.md)
+- � [Sindicância](./docs/sindicancia.md)
 
 ### Administração Pública
 - 📋 [Licitações e Contratos](./licitacoes-e-contratos.md)
