@@ -18,7 +18,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 - 🪖 [Estatuto dos Militares](./docs/estatuto.md)
 - 📘 [Regulamento de Administração do Exército](./docs/rae.md)
 - ⚖️ [Código Penal Militar](./docs/cpm.md)
-- 📃 Código Processual Penal Militar *(em desenvolvimento)*
+- 📃 [Código Processual Penal Militar](./docs/cppm.md)
 - � [Sindicância](./docs/sindicancia.md)
 
 ### Administração Pública
