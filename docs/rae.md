@@ -1,9 +1,5 @@
 ### **Regulamento de Administração do Exército (RAE) - Resumo Completo para o CHQAO**
 
-O Regulamento de Administração do Exército (RAE), identificado como EB10-R-01.003, tem como **finalidade estabelecer os preceitos gerais para as atividades administrativas do Comando do Exército**. As prescrições específicas sobre gestão orçamentária, financeira, patrimonial e contábil serão detalhadas em legislação complementar. Atividades administrativas em campanha seguem manuais e publicações específicas.
-
-O Comando do Exército administra suas atividades, propõe sua organização e prepara o Exército para cumprir sua destinação constitucional e atividades subsidiárias. As atividades administrativas do Comando do Exército devem seguir os **mesmos princípios da Administração Federal**, além de princípios específicos para suas peculiaridades. Sistemas corporativos informatizados, integrados ou não a sistemas do Governo Federal, são usados para o desenvolvimento dessas atividades.
-
 ---
 
 #### **1. Conceituações Básicas (Art. 2º do RAE)**

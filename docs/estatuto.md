@@ -1,6 +1,6 @@
 ### **Resumo Completo do Estatuto dos Militares (Lei nº 6.880)**
 
-O Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980) regula a situação, obrigações, deveres, direitos e prerrogativas dos membros das Forças Armadas.
+___
 
 #### **Título I – Generalidades**
 

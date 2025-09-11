@@ -1,7 +1,5 @@
 ### **Resumo Completo para a Prova do CHQAO: Licitações e Contratos**
 
-Este resumo aborda os principais aspectos da Lei nº 14.133/21, conhecida como a Nova Lei Geral de Licitações, que substituiu normativos como a Lei nº 8.666/93, Lei nº 10.520/2002 (Lei do Pregão) e Lei nº 12.462/2011 (RDC).
-
 ---
 
 ### **1. Introdução e Conceitos Fundamentais**

@@ -1,7 +1,5 @@
 ### **Resumo Completo sobre Sindicância para a Prova do CHQAO**
 
-As **Instruções Gerais para a Elaboração de Sindicância no Âmbito do Exército Brasileiro (EB10-IG-09.001)**, aprovadas pela **Portaria C Ex Nº 2.394, de 05 de dezembro de 2024**, regulam os procedimentos para a realização de sindicância no Exército Brasileiro. Esta portaria revoga as Portarias C Ex nº 107/2012 e 1.027/2017, e entra em vigor em 1º de janeiro de 2025, sendo que sindicâncias anteriores a essa data são regulamentadas pela Portaria C Ex nº 107/2012. A sindicância é um instrumento crucial para embasar atos administrativos do Comandante de Organização Militar (OM), materializando o princípio constitucional do devido processo legal no âmbito administrativo e viabilizando a formação do seu convencimento.
-
 ---
 
 #### **1. Finalidade e Conceito da Sindicância**

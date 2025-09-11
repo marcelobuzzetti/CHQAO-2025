@@ -1,7 +1,5 @@
 ### **Resumo Completo do Código Penal Militar (CPM) para a Prova do CHQAO**
 
-O Código Penal Militar (CPM) estabelece as normas e os crimes aplicáveis aos militares, buscando manter a ordem e a disciplina nas instituições militares. As apostilas digitais e as aulas abordam diversos títulos e capítulos do CPM, muitos dos quais foram atualizados pela Lei nº 14.688, de 2023, e são relevantes para a FOG 2025.
-
 ---
 
 ### **Título I – Da Aplicação da Lei Penal Militar**

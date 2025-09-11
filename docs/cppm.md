@@ -1,6 +1,6 @@
 ### **Resumo Completo do Código de Processo Penal Militar (CPPM) para o CHQAO**
 
-Este resumo aborda os principais pontos do Código de Processo Penal Militar (CPPM), conforme apresentado nas apostilas e aulas, cobrindo a aplicação da lei, o inquérito policial militar, a ação e o processo penal militar, a função do juiz e seus auxiliares, as partes no processo, a denúncia, o foro militar, as medidas preventivas e assecuratórias, e os processos especiais.
+---
 
 #### **I. Da Lei de Processo Penal Militar e sua Aplicação (Aula 01)**
 

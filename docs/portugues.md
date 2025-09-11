@@ -1,6 +1,6 @@
 ### **Resumo Completo de Língua Portuguesa para a Prova do CHQAO**
 
-Este resumo aborda os principais aspectos da Língua Portuguesa, conforme o conteúdo presente nas fontes fornecidas, organizados para otimizar a preparação para a prova do CHQAO.
+___
 
 **1. Acentuação Gráfica**
 A acentuação gráfica na Língua Portuguesa tem como principal novidade a adaptação ao **Novo Acordo Ortográfico de 1990**, que visou à unificação ortográfica do idioma falado na comunidade lusófona, e não à simplificação. As modificações são mais perceptíveis no uso de notações léxicas, como acentos gráficos, hífen e apóstrofo, além da ausência do trema.

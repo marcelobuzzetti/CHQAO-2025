@@ -1,7 +1,5 @@
 ### **Resumo Completo – Geografia para o CHQAO**
 
-A Geografia, disciplina fundamental para a compreensão do mundo contemporâneo, é abordada no contexto do CHQAO através de eixos temáticos que exploram a produção, o território, a dinâmica da natureza, a população, a urbanização e as ferramentas cartográficas.
-
 ---
 
 ### **Eixo I – Produção e Território**
