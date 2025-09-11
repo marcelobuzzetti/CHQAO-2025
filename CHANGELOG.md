@@ -1,3 +1,9 @@
+## 1.1.1 (2025-09-11)
+
+### Refactor
+
+- **resumo**: removida introducoes
+
 ## 1.1.0 (2025-09-11)
 
 ### Feat
