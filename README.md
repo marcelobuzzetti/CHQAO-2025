@@ -22,7 +22,7 @@ Este repositório contém materiais de estudo e resumos para as disciplinas do c
 - � [Sindicância](./docs/sindicancia.md)
 
 ### Administração Pública
-- 📋 [Licitações e Contratos](./licitacoes-e-contratos.md)
+- 📋 [Licitações e Contratos](./docs/licitacoes-e-contratos.md)
 
 ## 🎯 Objetivos
 
